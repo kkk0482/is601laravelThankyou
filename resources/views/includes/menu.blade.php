@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: kkham
- * Date: 7/7/2019
- * Time: 2:54 PM
- */
-
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
 
 
@@ -26,7 +19,6 @@
             <li class="nav-item"><a class="nav-link" href="{{route('about')}}">About</a></li>
 
             <li class="nav-item"><a class="nav-link" href="{{route('contact')}}">Contact</a></li>
-
             <li class="nav-item dropdown">
 
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true"
@@ -42,6 +34,7 @@
 
                 </div>
             </li>
+
         </ul>
 
         <form class="form-inline my-2 my-lg-0">

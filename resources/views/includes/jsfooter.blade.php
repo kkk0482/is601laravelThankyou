@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: kkham
- * Date: 7/7/2019
- * Time: 2:53 PM
- */
-
 <!-- Optional JavaScript -->
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

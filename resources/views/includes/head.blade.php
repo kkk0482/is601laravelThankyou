@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: kkham
- * Date: 7/7/2019
- * Time: 2:52 PM
- */
-
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">

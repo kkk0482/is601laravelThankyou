@@ -1,0 +1,22 @@
+/**
+ * Created by PhpStorm.
+ * User: kkham
+ * Date: 7/7/2019
+ * Time: 2:52 PM
+ */
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+
+    <link href="/css/jumbotron.css" rel="stylesheet">
+
+</head>

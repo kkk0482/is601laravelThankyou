@@ -1,10 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: kkham
- * Date: 7/7/2019
- * Time: 3:18 PM
- */
-
 @extends('layouts.default')
 
 @section('content')

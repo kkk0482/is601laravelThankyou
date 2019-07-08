@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h2>Heading1</h2>
-                <p>A joyful heart is good medicine. Its true.</p>
+                <p>Kalpit 1 - heading test here. </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
 
             </div>
@@ -28,7 +28,7 @@
 
                 <h2>Heading2</h2>
 
-                <p>A joyful heart is good medicine. Yes it is. </p>
+                <p>Kalpit 2 - heading test here. </p>
 
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
@@ -37,7 +37,7 @@
 
                 <h2>Heading3</h2>
 
-                <p>A joyful heart is good medicine. Get one.</p>
+                <p> Kalpit 3 - heading test here. </p>
 
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
